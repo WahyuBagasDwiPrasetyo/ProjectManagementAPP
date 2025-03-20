@@ -1,7 +1,5 @@
 #Wahyu Project Management
 
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/project-management/refs/heads/main/image-1.jpeg)
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/project-management/refs/heads/main/image-4.jpeg)
 
 A Laravel Filament 3 application for managing projects with ticket management and status tracking.
 
@@ -19,8 +17,6 @@ A Laravel Filament 3 application for managing projects with ticket management an
 - Laravel 12
 - MySQL 8.0+ / PostgreSQL 12+
 - Composer
-
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/project-management/refs/heads/main/image-2.jpeg)
 
 ## Installation
 
