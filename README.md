@@ -1,4 +1,4 @@
-#Wahyu Project Management
+Wahyu Project Management
 
 
 A Laravel Filament 3 application for managing projects with ticket management and status tracking.
